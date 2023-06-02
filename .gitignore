@@ -2,7 +2,7 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/Calc/x64/Debug
-/Pi/.vs/Pi
-/Pi/Pi/x64/Debug
-/Pi/x64/Debug
+/Tests/.vs/Tests
+/Tests/Calc/x64
+/Tests/Pi/x64
+/Tests/x64/Release
